@@ -1,4 +1,4 @@
-# Python-Projects
+# Table 
 
 | Attributes | Samsung | Redmi |
 | --- | --- | --- |
