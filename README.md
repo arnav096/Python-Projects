@@ -19,8 +19,8 @@ The dataset is being generated with the help of web-scraping technique. The data
 * Reviews vs Segments.
 
 #### Q1. Which model got highest rating and how much?
-![](https://github.com/arnav096/Python-Projects/blob/main/images/3.PNG)
-![](https://github.com/arnav096/Python-Projects/blob/main/images/c1.PNG)
+![SAMSUNG](https://github.com/arnav096/Python-Projects/blob/main/images/3.PNG)
+![REDMI](https://github.com/arnav096/Python-Projects/blob/main/images/c1.PNG)
 #### Q2. Which model got maximum average rating?
 ![](https://github.com/arnav096/Python-Projects/blob/main/images/2.PNG)
 #### Q3. What is the number of mobiles sold out by models?
