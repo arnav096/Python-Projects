@@ -9,4 +9,4 @@
 |Costliest|99999|32990|
 |Discount|23|16|
 
-![]('C:/Users/91700/Desktop/Presentation/Samsung/1.png')
+![]('C:\Users\91700\Desktop\Presentation\Samsung\1.png')
