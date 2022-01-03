@@ -9,4 +9,4 @@
 |Costliest|99999|32990|
 |Discount|23|16|
 
-![]('https://github.com/arnav096/Python-Projects/blob/main/images/1.PNG')
+![]('images/1.PNG')
