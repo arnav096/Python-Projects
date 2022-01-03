@@ -17,6 +17,15 @@ The dataset is being generated with the help of web-scraping technique. The data
 * Battery vs Segments.
 * ROM vs Segments.
 * Reviews vs Segments.
+
+#### Q1. Which model got highest rating and how much?
+![](https://github.com/arnav096/Python-Projects/blob/main/images/3.PNG)
+#### Q2. Which model got maximum average rating?
+![](https://github.com/arnav096/Python-Projects/blob/main/images/2.PNG)
+#### Q3. What is the number of mobiles sold out by models?
+![](https://github.com/arnav096/Python-Projects/blob/main/images/5.PNG)
+#### Q4. Which is the trending phone color?
+![](https://github.com/arnav096/Python-Projects/blob/main/images/4.PNG)
 ### Conclusion:
 * Most sold out model is A12.
 * The maximum offer rate got by M32 model.
