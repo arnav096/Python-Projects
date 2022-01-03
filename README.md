@@ -1,13 +1,3 @@
-# Table 
-
-| Attributes | Samsung | Redmi |
-| --- | --- | --- |
-|Unique Models|24|18|
-|Max Star|12|6|
-|Min Star|3|2|
-|Cheapest|10497|5999|
-|Costliest|99999|32990|
-|Discount|23|16|
 # Aim: 
 To perform EDA on mobile data of two websites using web-scraping technique.
 # Objective:
@@ -16,5 +6,26 @@ Find out the feasible range for buying phone based on some features such as rati
 The dataset is being generated with the help of web-scraping technique. The data contains 12 attributes as brand,model,color,ram,rom,battery,camera,ratings,star,reviews,price and offrate.
 # EDA
 * Most costliest model sold out.
-# Samsung
-![](https://github.com/arnav096/Python-Projects/blob/main/images/1.PNG)
+* Most cheapest model sold out.
+* Max discounted model.
+* Highest model rating.
+* Number of mobiles sold out by model.
+* Trending phone color sold out.
+* Profit of phones by model.(Total)
+* Star vs Price.
+* Ratings vs Segments.
+* Battery vs Segments.
+* ROM vs Segments.
+* Reviews vs Segments.
+# Conclusion:
+* Most sold out model is A12.
+* The maximum offer rate got by M32 model.
+* Black is the most sold out color.
+* The highest model sold out by star is 4.
+* Most of the ratings lies under 2000.
+* Budget and Mid-Range phone have high battery power.
+* Budget phones have maximum ratings compared to Mid-range and Expensive.
+* Highest reviews and rom is shared by Budget phones.
+* There are 51.9% budget, 25% expensive and 23.1% mid-range phones.
+* Most of the mobile are feasible to buy in the price range between 10k to 25k.
+
