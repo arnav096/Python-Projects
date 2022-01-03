@@ -26,6 +26,13 @@ The dataset is being generated with the help of web-scraping technique. The data
 ![](https://github.com/arnav096/Python-Projects/blob/main/images/5.PNG)
 #### Q4. Which is the trending phone color?
 ![](https://github.com/arnav096/Python-Projects/blob/main/images/4.PNG)
+#### Q5. What is the average price of phone by model?
+![](https://github.com/arnav096/Python-Projects/blob/main/images/1.PNG)
+#### Q6. Which model got maximum sale and by how much?
+1[](https://github.com/arnav096/Python-Projects/blob/main/images/13.PNG)
+#### Relationships
+  #### 1. Star vs Price
+  ![](https://github.com/arnav096/Python-Projects/blob/main/images/12.PNG)
 ### Conclusion:
 * Most sold out model is A12.
 * The maximum offer rate got by M32 model.
