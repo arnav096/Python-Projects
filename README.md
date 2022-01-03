@@ -1,10 +1,10 @@
-# Aim: 
+### Aim: 
 To perform EDA on mobile data of two websites using web-scraping technique.
-# Objective:
+### Objective:
 Find out the feasible range for buying phone based on some features such as rating,discount etc.
-# Dataset
+### Dataset
 The dataset is being generated with the help of web-scraping technique. The data contains 12 attributes as brand,model,color,ram,rom,battery,camera,ratings,star,reviews,price and offrate.
-# EDA
+### EDA
 * Most costliest model sold out.
 * Most cheapest model sold out.
 * Max discounted model.
@@ -17,7 +17,7 @@ The dataset is being generated with the help of web-scraping technique. The data
 * Battery vs Segments.
 * ROM vs Segments.
 * Reviews vs Segments.
-# Conclusion:
+### Conclusion:
 * Most sold out model is A12.
 * The maximum offer rate got by M32 model.
 * Black is the most sold out color.
