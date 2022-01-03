@@ -15,6 +15,6 @@ Find out the feasible range for buying phone based on some features such as rati
 # Dataset
 The dataset is being generated with the help of web-scraping technique. The data contains 12 attributes as brand,model,color,ram,rom,battery,camera,ratings,star,reviews,price and offrate.
 # EDA
-** Most costliest model sold out.
+* Most costliest model sold out.
 # Samsung
 ![](https://github.com/arnav096/Python-Projects/blob/main/images/1.PNG)
